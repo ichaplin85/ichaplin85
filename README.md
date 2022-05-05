@@ -38,8 +38,6 @@
 
 <h2 align="center">My skills</h2>
 
-<br><br>
-
 <div align="center">
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
