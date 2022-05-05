@@ -29,8 +29,6 @@
 
 <h2 align="center">💬 Reach me on</h2>
 
-<br><br>
-
 <p align="center" align='right'>
   <a target="_blank" href="mailto:ichaplin@yandex.ru"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
