@@ -94,13 +94,14 @@
   stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
 
   <br><br>
-
+  
+  <!-- Write your comments here
   <div align="center">
     <img src="https://github.com/d4rsen/d4rsen/blob/main/assets/rinnegan.gif" alt="header"/>
   </div>
 
   <br> <br>
-
+  -->
   ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
 
 </div>
