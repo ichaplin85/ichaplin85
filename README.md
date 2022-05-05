@@ -16,11 +16,10 @@
 <h2 align="center">My projects 👨‍💻</h2>
 
 <p align="center">
-  <!--
-  <samp>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a>
+
+  <samp>Check out my projects: <a href="https://github.com/hadzhehsen/elbrus_smart_chain" target="_blank">Bifröst nft project</a>
   </samp>
   <br> <br>
-  -->
   <!--
   <samp>Also check out my website: <a href="https://d4rsen.vercel.app" target="_blank">d4rsen.vercel.app</a>
   </samp>
