@@ -19,8 +19,10 @@
   <samp>Check out my projects: <a href="https://coliseum-game.vercel.app/home" target="_blank">COLISEUM</a>
   </samp>
   <br> <br>
+  <!--
   <samp>Also check out my website: <a href="https://d4rsen.vercel.app" target="_blank">d4rsen.vercel.app</a>
   </samp>
+  -->
   <br> <br>
 </p>
 
@@ -30,9 +32,9 @@
 <br><br>
 
 <p align="center" align='right'>
-  <a target="_blank" href="mailto:darsenungarlinov00@gmail.com"><img
+  <a target="_blank" href="mailto:ichaplin@yandex.ru"><img
     src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://t.me/d4rse"><img
+  <a target="_blank" href="https://t.me/teachmepls"><img
     src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -74,26 +76,6 @@
 
 <div align="center">
 
-  <br><br>
-
-  <h2> 📈 GitHub Activity Graph: </h2>
-
-  ![d4rsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=d4rsen&hide_border=true&theme=redical)
-
-  <br><br>
-
-  ![d4rsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4rsen&theme=radical)
-
-  <br><br>
-
-  ![d4rsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=d4rsen&theme=radical)
-
-  <br><br>
-
-  ![d4rsen's github
-  stats](https://github-readme-stats.vercel.app/api?username=d4rsen&show_icons=true&theme=radical&include_all_commits=true)
-
-  <br><br>
   
   <!-- Write your comments here
   <div align="center">
@@ -101,7 +83,9 @@
   </div>
 
   <br> <br>
-  -->
+
   ![](https://visitor-badge.glitch.me/badge?page_id=d4rsen)
+  -->
+
 
 </div>
