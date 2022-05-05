@@ -16,7 +16,6 @@
 <h2 align="center">My projects 👨‍💻</h2>
 
 <p align="center">
-
   <samp>Check out my projects: <a href="https://github.com/hadzhehsen/elbrus_smart_chain" target="_blank">Bifröst nft project</a>
   </samp>
   <br> <br>
