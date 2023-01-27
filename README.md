@@ -7,13 +7,10 @@
 
 <h2 align="center">Hi there!🤘</h2>
 <p align="center">
-  <samp>My name is Ilya Chaplin, I'm from Moscow! <br> <br> I am a Fullstack JavaScript developer. 😎
+  <samp>My name is Ilya Chaplin, I'm from Moscow! <br> <br> I am a Frontend developer. 😎
   </samp>
   <br> <br>
 </p>
-
-
-<h2 align="center">My projects 👨‍💻</h2>
 
 <p align="center">
   <samp>Check out my projects: <a href="https://github.com/ichaplin85/elbrus_smart_chain" target="_blank">Bifröst nft project</a>
